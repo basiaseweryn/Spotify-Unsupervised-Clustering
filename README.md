@@ -40,8 +40,8 @@ Projekt koncentruje się na klasteryzacji utworów muzycznych z Spotify na podst
 - **Wpływ Klastra na Zmienne**: Przeanalizowano zależności między klastrami a zmiennymi takimi jak liczba odtworzeń, obecność na playlistach, rok wydania i liczba artystów.
 
 ## Autorzy
-- @barbarase
-- @ulaszczesna
+- [@basiaseweryn]
+- [@ulaszczesna]
 
 README stanowi podsumowanie celów projektu, przetwarzania danych, metodologii i kluczowych wyników. Szczegółowe informacje znajdują się w pełnym raporcie projektu.
 
